@@ -1,45 +1,97 @@
 <h1 align="center">SANTO ARUL RAJAA</h1>
-<h3 align="center">Aspiring Creative AI Engineer</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffffff&background=00000000&center=true&vCenter=true&width=600&lines=bridging+data+and+design;ai+is+my+creative+partner;i+build+smart+digital+experiences;code+%2B+creativity+%3D+impact" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Creative+AI+Engineer;Bridging+Data+%26+Design;Building+Smart+Digital+Experiences;Artist+%2B+Developer+%2B+Thinker" />
+</p>
+
+<h3 align="center">
+Aspiring Creative AI Engineer | Pencil Artist | Web Designer & Developer
+</h3>
+
+---
+
+<p align="center">
+i don't just build projects — i design experiences.  
+i merge <b>art + ai + code</b> to create things that feel alive, intelligent, and meaningful.
+</p>
+
+---
+
+## 🌌 about me
+
+* 🎓 AIML student exploring real-world AI applications
+* 🎨 realistic pencil artist (faces, emotions, details)
+* 🤖 building AI-driven solutions using modern tools
+* 🌐 crafting clean, aesthetic, and interactive web designs
+* ⚡ strong believer in **"work smart using AI, not just hard"**
+
+---
+
+## 🚀 my philosophy
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 <p align="center">
-  i blend creativity with technology. from designing clean web experiences to exploring ai-driven solutions, i focus on building things that are both functional and visually engaging.
+<b>“creativity + intelligence = impact”</b>
 </p>
 
-<br/>
+---
 
-<div align="center">
+## 🔗 connect with me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/santo-arul-rajaa-s-694094386">
-    <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
+</p>
 
-<br/>
+---
 
-<div align="center">
-  <b>what i do</b><br><br>
-  🎨 pencil artist with a strong eye for detail<br>
-  🌐 web designer & developer crafting smooth user experiences<br>
-  🤖 exploring ai to merge logic with creativity<br>
-</div>
-
-<br/>
-
-<div align="center">
-  <b>my tools</b><br><br>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,python,html,css,blender,ps,ae" alt="tools" /><br><br>
-  <p style="color: #999999; font-size: 12px;">
-    also experienced with: jupyter notebook, blockbench, celtx
-  </p>
-</div>
-
-<br/>
+## 🧠 tech + creativity stack
 
 <p align="center">
-  <i>“build smart. design better. create impact.”</i>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react,blender,ps,ae" />
 </p>
+
+<p align="center">
+  <i>AI • Web • Design • Creativity</i>
+</p>
+
+---
+
+## 📊 github analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" height="180"/>
+</p>
+
+---
+
+## 🧩 what makes me different
+
+✨ i think like an artist, build like an engineer
+✨ i use AI as a **creative partner**, not just a tool
+✨ i focus on **both logic and aesthetics**
+✨ i aim to create things people actually enjoy using
+
+---
+
+## 🎯 current focus
+
+* 🤖 real-time AI projects (YOLO, CV, automation)
+* 🌐 modern UI/UX web development
+* 🧠 combining AI + design into unique products
+* 🎨 growing as a professional artist
+
+---
+
+## ⚡ signature line
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=build+smart.;design+better.;create+impact." />
+</p>
+
+---
