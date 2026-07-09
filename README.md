@@ -17,7 +17,7 @@ i merge <b>art + ai + code</b> to create things that feel alive, intelligent, an
 
 ---
 
-## 🌌 about me
+##  about me
 
 * 🎓 AIML student exploring real-world AI applications
 * 🎨 realistic pencil artist (faces, emotions, details)
@@ -27,7 +27,7 @@ i merge <b>art + ai + code</b> to create things that feel alive, intelligent, an
 
 ---
 
-## 🚀 my philosophy
+##  my philosophy
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
@@ -39,7 +39,7 @@ i merge <b>art + ai + code</b> to create things that feel alive, intelligent, an
 
 ---
 
-## 🔗 connect with me
+##  connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/santo-arul-rajaa-s-694094386">
@@ -49,7 +49,7 @@ i merge <b>art + ai + code</b> to create things that feel alive, intelligent, an
 
 ---
 
-## 🧠 tech + creativity stack
+##  tech + creativity stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react,blender,ps,ae" />
@@ -61,7 +61,7 @@ i merge <b>art + ai + code</b> to create things that feel alive, intelligent, an
 
 ---
 
-## 📊 github analytics
+##  github analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180"/>
@@ -70,7 +70,7 @@ i merge <b>art + ai + code</b> to create things that feel alive, intelligent, an
 
 ---
 
-## 🧩 what makes me different
+##  what makes me different
 
 ✨ i think like an artist, build like an engineer
 ✨ i use AI as a **creative partner**, not just a tool
@@ -79,16 +79,16 @@ i merge <b>art + ai + code</b> to create things that feel alive, intelligent, an
 
 ---
 
-## 🎯 current focus
+##  current focus
 
-* 🤖 real-time AI projects (YOLO, CV, automation)
-* 🌐 modern UI/UX web development
-* 🧠 combining AI + design into unique products
-* 🎨 growing as a professional artist
+*  real-time AI projects (YOLO, CV, automation)
+*  modern UI/UX web development
+*  combining AI + design into unique products
+*  growing as a professional artist
 
 ---
 
-## ⚡ signature line
+##  signature line
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=build+smart.;design+better.;create+impact." />
